@@ -96,7 +96,6 @@ The **bolded programs** are the current programs that are managed in **SMILE**. 
 |  | Terapi Pencegahan TB (TPT) | Medicine |
 |  | Non-Obat Anti Tuberkulosis (Non-OAT) | Medicine |
 | Malaria | Rutin | Medicine |
-|  | MBS (Mass Blood Survey) | Medicine |
 | Free Health Screening (PKG) | BMHP Skrining | Medicine |
 | Anti-Venom | Anti-Venom | Medicine |
 | Diarrhea | Diare | Medicine |
@@ -120,3 +119,4 @@ For more information about configuring Programs and Activities managed in SMILE,
 |------|-------------------|--------|--------|
 | 01 Sep 2025 | Updated with the latest information from Release 1 | TW | Done |
 | 23 Apr 2025 | Updated on restructuring the article and title change. Ready to Review by PM. | PM | Done |
+| 8 Jan 2026 | Updated program list has removed malaria mass blood survey due to inactivity | TW | Done |
