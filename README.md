@@ -8,8 +8,6 @@ _Last updated: 01 Sep 2025_
 - [Materials Supply Chain Entity Levelling](#materials-supply-chain-entity-levelling)
 - [Health Care Entity Levels](#health-care-entity-levels)
 - [Program List](#program-list)
-- [Revision History](#revision-history)
-
 ---
 
 ## About
@@ -109,14 +107,3 @@ The **bolded programs** are the current programs that are managed in **SMILE**. 
 
 For more information about configuring Programs and Activities managed in SMILE, please refer to **Master Data Service**.
 
----
-
-## Revision History
-
-> **Internal Use Only**  
-> This content is not intended for publication in the live environment.
-
-| Date | Change Description | Author | Status |
-|------|-------------------|--------|--------|
-| 01 Sep 2025 | Updated with the latest information from Release 1 | TW | Done |
-| 23 Apr 2025 | Updated on restructuring the article and title change. Ready to Review by PM. | PM | Done |
